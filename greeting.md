@@ -2,7 +2,7 @@
 
 ## Favorite NBA players:
 
-* **Joel Embidd**
+* **Joel Embiid**
 * Ben Simmons
 * Damian Lillard
 * CJ McCollum
